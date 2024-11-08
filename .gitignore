@@ -1,6 +1,5 @@
 *
-!*/
-
+*/
 !.gitignore
-!.run.sh
+![^_]*.sh
 
