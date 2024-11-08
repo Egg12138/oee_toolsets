@@ -2,4 +2,5 @@
 */
 !.gitignore
 ![^_]*.sh
+!README.md
 
